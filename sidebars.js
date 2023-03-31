@@ -139,6 +139,11 @@ const docs = [
     items: [
       {
         type: 'doc',
+        label: 'Agent Registration Flow',
+        id: 'advanced/agent-registration-flow',
+      },
+      {
+        type: 'doc',
         label: 'Performance impact',
         id: 'advanced/performance-considerations',
       },
